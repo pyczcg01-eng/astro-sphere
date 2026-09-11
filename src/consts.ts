@@ -15,7 +15,7 @@ export const WORK: Page = {
 
 // Blog Page
 export const BLOG: Page = {
-  TITLE: "Blog",
+  TITLE: "博客",
   DESCRIPTION: "Writing on topics I am passionate about.",
 }
 
