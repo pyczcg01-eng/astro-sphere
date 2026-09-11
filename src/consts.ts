@@ -34,7 +34,7 @@ export const SEARCH: Page = {
 // Links
 export const LINKS: Links = [
   { 
-    TEXT: "Home", 
+    TEXT: "主页", 
     HREF: "/", 
   },
   { 
