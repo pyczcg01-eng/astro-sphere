@@ -38,15 +38,15 @@ export const LINKS: Links = [
     HREF: "/", 
   },
   { 
-    TEXT: "Work", 
+    TEXT: "工作", 
     HREF: "/work", 
   },
   { 
-    TEXT: "Blog", 
+    TEXT: "博客", 
     HREF: "/blog", 
   },
   { 
-    TEXT: "Projects", 
+    TEXT: "项目", 
     HREF: "/projects", 
   },
 ]
