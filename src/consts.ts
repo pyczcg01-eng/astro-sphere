@@ -9,7 +9,7 @@ export const SITE: Site = {
 
 // Work Page
 export const WORK: Page = {
-  TITLE: "主页",
+  TITLE: "工作",
   DESCRIPTION: "Places I have worked.",
 }
 
